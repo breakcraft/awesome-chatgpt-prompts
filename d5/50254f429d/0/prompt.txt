@@ -1,0 +1,1 @@
+no i mean, it's not working. i don't get latest prompts added to db. (skills must be skipped)
