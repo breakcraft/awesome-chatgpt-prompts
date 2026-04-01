@@ -1,0 +1,18 @@
+{
+  "cli_version": "0.5.1",
+  "checkpoint_id": "e195189bbf0c",
+  "strategy": "manual-commit",
+  "branch": "cursor/add-commandcode-runner",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "src/components/prompts/run-prompt-button.tsx"
+  ],
+  "sessions": [
+    {
+      "metadata": "/e1/95189bbf0c/0/metadata.json",
+      "transcript": "/e1/95189bbf0c/0/full.jsonl",
+      "content_hash": "/e1/95189bbf0c/0/content_hash.txt",
+      "prompt": ""
+    }
+  ]
+}
