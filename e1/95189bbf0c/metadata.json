@@ -3,7 +3,7 @@
   "checkpoint_id": "e195189bbf0c",
   "strategy": "manual-commit",
   "branch": "cursor/add-commandcode-runner",
-  "checkpoints_count": 0,
+  "checkpoints_count": 1,
   "files_touched": [
     "src/components/prompts/run-prompt-button.tsx"
   ],
@@ -13,6 +13,19 @@
       "transcript": "/e1/95189bbf0c/0/full.jsonl",
       "content_hash": "/e1/95189bbf0c/0/content_hash.txt",
       "prompt": ""
+    },
+    {
+      "metadata": "/e1/95189bbf0c/1/metadata.json",
+      "transcript": "/e1/95189bbf0c/1/full.jsonl",
+      "content_hash": "/e1/95189bbf0c/1/content_hash.txt",
+      "prompt": "/e1/95189bbf0c/1/prompt.txt"
     }
-  ]
+  ],
+  "token_usage": {
+    "input_tokens": 0,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 0,
+    "output_tokens": 0,
+    "api_call_count": 0
+  }
 }
