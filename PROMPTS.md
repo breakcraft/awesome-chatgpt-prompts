@@ -163279,19 +163279,6 @@ I want to create a prompt that help me design a prompt to help learn things in a
 </details>
 
 <details>
-<summary><strong>Gab-Annuaire </strong></summary>
-
-## Gab-Annuaire 
-
-Contributed by [@ziasnguimbi@gmail.com](https://github.com/ziasnguimbi@gmail.com)
-
-```md
-J’ai une idée à te partager : créer un annuaire numérique des petits métiers au Gabon, organisé par ville, arrondissement et quartier. Les utilisateurs pourront rechercher gratuitement des professionnels et les contacter directement sur WhatsApp. Les annonceurs pourront souscrire à des offres payantes, dès 3 000 FCFA/an, incluant photo, métier, adresse et WhatsApp. La plateforme intégrera aussi la publicité, les moyens de paiement locaux et un tableau de bord administrateur pour tout gérer simplement.
-```
-
-</details>
-
-<details>
 <summary><strong>sales and marketing strategy</strong></summary>
 
 ## sales and marketing strategy
