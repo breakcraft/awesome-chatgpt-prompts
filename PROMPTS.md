@@ -170303,22 +170303,6 @@ if __name__ == "__main__":
 </details>
 
 <details>
-<summary><strong>Pulspix.Photography</strong></summary>
-
-## Pulspix.Photography
-
-Contributed by [@berberichmartin@web.de](https://github.com/berberichmartin@web.de)
-
-```md
-Animierte 4 Jahreszeiten Webseite/Motorsport/Events/B2B/Sport Portrait 
-Bilder werden zu jeder Jahreszeit individuell hinzugefügt.
-
-Kontakt 
-```
-
-</details>
-
-<details>
 <summary><strong>Civil Engineer & elevation design architect </strong></summary>
 
 ## Civil Engineer & elevation design architect 
