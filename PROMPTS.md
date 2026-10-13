@@ -170316,20 +170316,6 @@ Role: think you are civil engineer & elevation design architect. Context: give m
 </details>
 
 <details>
-<summary><strong>كتابة نص يخلي الناس تعلق </strong></summary>
-
-## كتابة نص يخلي الناس تعلق 
-
-Contributed by [@medadsoft41@gmail.com](https://github.com/medadsoft41@gmail.com)
-
-```md
-اكتب لي بلهجة ليبية بأسلوب يجلب تفاعل بأسلوب رجل صاحب تفاعل ومتابعين 
-رجل كلمنجي 
-```
-
-</details>
-
-<details>
 <summary><strong>YouTube Video Downloader Skill</strong></summary>
 
 ## YouTube Video Downloader Skill
