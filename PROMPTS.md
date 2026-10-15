@@ -173929,19 +173929,6 @@ if __name__ == "__main__":
 </details>
 
 <details>
-<summary><strong>Faire la promotion et ventes de mes ebooks </strong></summary>
-
-## Faire la promotion et ventes de mes ebooks 
-
-Contributed by [@alexiskoffikouassi7@gmail.com](https://github.com/alexiskoffikouassi7@gmail.com)
-
-```md
-https://hvmgdwpp.mychariow.shop/prd_jgdozl faire la promotion et ventes en ligne en Afrique et monde entier 
-```
-
-</details>
-
-<details>
 <summary><strong>Proyecto de inversión pública</strong></summary>
 
 ## Proyecto de inversión pública
