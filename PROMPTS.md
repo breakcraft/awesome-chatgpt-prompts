@@ -210984,19 +210984,6 @@ Create a program for a performance called"", the purpose of which is to help cre
 </details>
 
 <details>
-<summary><strong>My glad girl </strong></summary>
-
-## My glad girl 
-
-Contributed by [@irssan67@gmail.com](https://github.com/irssan67@gmail.com)
-
-```md
-My girl going a head smiley 
-```
-
-</details>
-
-<details>
 <summary><strong>1Sentence Deck: pitch deck thesis interview</strong></summary>
 
 ## 1Sentence Deck: pitch deck thesis interview
